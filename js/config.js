@@ -48,11 +48,11 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
-    heimuer: {
-        api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv', 
-    },
+    // heimuer: {
+    //     api: 'https://json.heimuer.xyz/api.php/provide/vod',
+    //     name: '黑木耳',
+    //     detail: 'https://heimuer.tv', 
+    // },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
@@ -163,20 +163,6 @@ const API_SITES = {
     //     api: 'https://yutuzy10.com',
     //     name: '玉兔资源',
     //     adult: true
-    // },
-
-    // 下面是资源失效率高的API源，不建议使用
-    // subo: {
-    //     api: 'https://subocaiji.com/api.php/provide/vod',
-    //     name: '速播资源'
-    // },
-    // fczy: {
-    //     api: 'https://api.fczy888.me/api.php/provide/vod',
-    //     name: '蜂巢资源'
-    // },
-    // ukzy: {
-    //     api: 'https://api.ukuapi88.com/api.php/provide/vod',
-    //     name: 'U酷资源'
     // },
 };
 
